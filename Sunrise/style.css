@@ -1,0 +1,14 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: center;
+    padding: 150px;
+
+}
+
+canvas {
+    width: 1000px;
+    border: solid black 1px;
+}
